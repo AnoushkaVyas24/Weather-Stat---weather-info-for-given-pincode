@@ -1,6 +1,7 @@
 package com.Anoushka.Weather_info_for_pincode;
 
 import org.springframework.boot.SpringApplication;
+import org.testcontainers.utility.TestcontainersConfiguration;
 
 public class TestWeatherInfoForPincodeApplication {
 
