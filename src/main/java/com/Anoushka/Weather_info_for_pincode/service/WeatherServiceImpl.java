@@ -20,10 +20,10 @@ public class WeatherServiceImpl implements WeatherService {
     private final LocationRepository locationRepository;
     private final RestTemplate restTemplate;
 
-    @Value("${api.openweather.key}")
+    @Value("${openweather.api.key}")
     private String openWeatherApiKey;
 
-    @Value("${api.geocoding.key}")
+    @Value("${geo.api.key}")
     private String geoApiKey;
 
     public WeatherServiceImpl(WeatherRepository weatherRepository,
