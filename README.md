@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌦 Weather Info for Pincode
 
 A Spring Boot project to fetch weather details for any Indian pincode by integrating **Geo API** and **OpenWeather API**.  
@@ -29,3 +30,6 @@ Weather data is stored in MySQL for re-use and fast retrieval.
    ```bash
    git clone https://github.com/your-repo/weather-info-for-pincode.git
    cd weather-info-for-pincode
+=======
+# Weather-Stat---weather-info-for-given-pincode
+>>>>>>> d27266b03ff591654f61b8b06ca21d53867ff8ee
